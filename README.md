@@ -29,7 +29,7 @@
 
 1. **下载扩展文件**
    ```bash
-   git clone https://github.com/your-username/doubao-search-extension.git
+   git clone https://github.com/dxxxsol/doubao-search-extension.git
    ```
 
 2. **加载到 Chrome**
