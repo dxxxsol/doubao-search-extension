@@ -4,6 +4,10 @@
 
 为豆包（Doubao）AI 助手添加对话搜索和目录导航功能的 Chrome 浏览器扩展。
 
+## 截图预览
+<img width="2880" height="1530" alt="image" src="https://github.com/user-attachments/assets/9c8c5c26-12a0-40fb-a1ca-7e9f14197933" />
+<img width="2880" height="1530" alt="image" src="https://github.com/user-attachments/assets/75bbd6f8-2e1f-47b1-a9cc-14c72a5613a0" />
+
 ## 功能特性
 
 - **对话搜索**
